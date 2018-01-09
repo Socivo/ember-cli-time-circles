@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-time-circles/components/time-circle';
